@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 Estudo na área de desenvolvimento de software Full Stack, na Trybe.
-
 💬 Meu foco é no aprimoramento de soft's/hard's skills, com o objetivo de ser um profissional completo na área de Tecnologia.
 
 
