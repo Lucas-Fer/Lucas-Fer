@@ -2,6 +2,7 @@
 
 <!--
 **Lucas-Fer/Lucas-Fer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -16,7 +17,8 @@ Here are some ideas to get you started:
 - 🌱 Estudo na área de desenvolvimento de software Full Stack, na Trybe.
 - 💬 Meu foco é no aprimoramento de soft's/hard's skills, com o objetivo de ser um profissional completo na área de Tecnologia.
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-fer&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/Lucas-Fer">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-fer&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fer&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
