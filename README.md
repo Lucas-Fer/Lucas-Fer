@@ -1,4 +1,4 @@
-### Olá, visitante!! Meu nome é Lucas Sousa Fernandes 👋
+### Olá, visitante!! Eu sou Lucas Sousa Fernandes 👋
 
 <!--
 **Lucas-Fer/Lucas-Fer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 Estudo na área de desenvolvimento de software Full Stack, na Trybe.
-💬 Meu foco é no aprimoramento de soft's/hard's skills, com o objetivo de ser um profissional completo na área de Tecnologia.
+- 🌱 Estudo na área de desenvolvimento de software Full Stack, na Trybe.
+- 💬 Meu foco é no aprimoramento de soft's/hard's skills, com o objetivo de ser um profissional completo na área de Tecnologia.
 
 
 
