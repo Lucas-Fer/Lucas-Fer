@@ -1,5 +1,5 @@
 ### Olá, visitante!! Eu sou Lucas Sousa Fernandes 👋
-  <h1>Resumo</h1>
+  <h1>👨 Resumo</h1>
   
 - 🔭 Embora eu ainda seja "aspirante a Dev", estou disponível e motivado a encarar desafios no mercado de trabalho, de preferência estágios em desenvolvimento, mesmo trabalhando com tecnologias/linguagens que AINDA não faz parte do meu repertório! 😀
 - 🌱 Estudo na área de desenvolvimento de software Full Stack na Trybe && Sistemas de Informação (8º período) na UNIRON.
