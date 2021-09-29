@@ -7,14 +7,14 @@
 <hr>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height='160em' align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
+  <img height='165em' align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height='160em' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fer&theme=tokyonight&layout=compact"/>
+  <img height='165em' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fer&theme=tokyonight&layout=compact"/>
 </a>
 </div>
 <div>
-  <h2>🚀 Competências</h2>
+  <h2>🚀 Conhecimento</h2>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white0'>
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
