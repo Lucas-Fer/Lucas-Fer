@@ -7,10 +7,10 @@
 <hr>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height='120em' align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
+  <img height='150em' align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height='120em' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fer&theme=tokyonight&layout=compact"/>
+  <img height='150em' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fer&theme=tokyonight&layout=compact"/>
 </a>
 </div>
 <div>
