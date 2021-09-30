@@ -19,7 +19,12 @@
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white0'>
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
   <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
-</div>
+<div>
+   
+<div>
+  <h2>📝 Aprendendo</h2>
+  <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white'>
+  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
 <div>
    <h2>📫 Contatos</h2>
    <a href="https://www.linkedin.com/in/lucas-sfer/" target="_blank">
