@@ -4,6 +4,11 @@
 - 🌱 Estudo na área de desenvolvimento de software Full Stack na Trybe && Sistemas de Informação (8º período) na UNIRON.
 - 💬 Meu foco é no aprimoramento de soft's/hard's skills, com o objetivo de ser um profissional completo na área de Desenvolvimento.
 - 🔭 Embora eu ainda seja "aspirante a Dev", sou apaixonado nessa área e sempre estou buscando aprofundar conhecimentos, portanto sou um grande protagonista da minha própria carreira.
+- 
+ <h1>🚀  Últimos projetos </h1>
+ 
+- [Página react para criar cards, estilo Super Trunfo.](https://github.com/Lucas-Fer/trunfo-game-project)
+  
 <hr>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
