@@ -7,6 +7,7 @@
 
  <h2>🚀  Últimos projetos </h2>
  
+- [TrybeTunes: Aplicação que consome uma Api de músicas.](https://github.com/Lucas-Fer/trybetunes-project)
 - [Página react para criar cards, estilo Super Trunfo.](https://github.com/Lucas-Fer/trunfo-game-project)
   
 <hr>
