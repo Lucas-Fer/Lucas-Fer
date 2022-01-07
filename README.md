@@ -1,4 +1,4 @@
-<h1>Olá, visitante!! Eu sou Lucas Sousa Fernandes 👋</h1>
+<h1>Olá, visitante!! Eu sou Lucas Fernandes 👋</h1>
   <h2>👨 Resumo</h2>
   
 - 🌱 Estudo na área de desenvolvimento de software Full Stack na Trybe && Sistemas de Informação (8º período) na UNIRON.
