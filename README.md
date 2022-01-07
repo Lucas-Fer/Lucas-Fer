@@ -36,7 +36,6 @@
 <div>
   <h2>📝 Aprendendo</h2>
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
 <div>
    <h2>📫 Contatos</h2>
    <a href="https://www.linkedin.com/in/lucas-sfer/" target="_blank">
