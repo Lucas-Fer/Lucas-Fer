@@ -1,7 +1,7 @@
 <h1>Olá, visitante!! Eu sou Lucas Fernandes 👋</h1>
   <h2>👨 Resumo</h2>
   
-- 🌱 Estudo na área de desenvolvimento de software Full Stack na Trybe && Sistemas de Informação (8º período) na UNIRON.
+- 🌱 Estudo na área de desenvolvimento de software Full Stack na Trybe (Finalizando o módulo de Front-end) && Sistemas de Informação (8º período) na UNIRON.
 - 💬 Meu foco é no aprimoramento de soft's/hard's skills, com o objetivo de ser um profissional completo na área de Desenvolvimento.
 - 🔭 Embora eu ainda seja "aspirante a Dev", sou apaixonado nessa área e sempre estou buscando aprofundar conhecimentos, portanto sou um grande protagonista da minha própria carreira.
 
