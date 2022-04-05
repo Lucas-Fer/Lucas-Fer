@@ -2,12 +2,12 @@
   <h2>👨 Resumo</h2>
   
 - 🌱 Estudo na área de desenvolvimento de software Full Stack na Trybe (Formado em Front-end) && Sistemas de Informação (8º período) na UNIRON.
-- 💬 Meu foco é no aprimoramento de soft's/hard's skills, com o objetivo de ser um profissional completo na área de Desenvolvimento.
+- 💬 Meu foco é ser um profissional completo na área de tecnologia, pendendo para atuar em Front-end e constantemente estou aprofundando em conhecimentos técnicos e socioemocionais.
 
  <h2>🚀  Últimos projetos </h2>
  
-- [TrybeTunes: Aplicação que consome uma Api de músicas.](https://github.com/Lucas-Fer/trybetunes-project)
-- [Página react para criar cards, estilo Super Trunfo.](https://github.com/Lucas-Fer/trunfo-game-project)
+- [StarWars Planets: Aplicação React que filtras os planetas do universo de Star Wars.](https://github.com/Lucas-Fer/starwars-planets)
+- [Wallet Project: Aplicação React que funciona como uma carteira de gastos.](https://github.com/Lucas-Fer/wallet-project)
   
 <hr>
 <div>
