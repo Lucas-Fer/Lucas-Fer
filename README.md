@@ -10,7 +10,7 @@
 - [StarWars Planets: Aplicação React que filtras os planetas do universo de Star Wars.](https://github.com/Lucas-Fer/starwars-planets)
 - [Wallet Project: Aplicação React que funciona como uma carteira de gastos.](https://github.com/Lucas-Fer/wallet-project)
  
- <h2>🚀  Últimos projetos Front-end </h2>
+ <h2>🚀  Últimos projetos Back-end </h2>
  
 - [MySql One For All: Aplica conhecimentos sobre manipulação de dados em SQL, com MySQL.](https://github.com/Lucas-Fer/mysql-al-for-one-project)
 - [Docker ToDo List: Aplica conceitos de docker para 'conteinerizar' aplicações de testes, front e back.](https://github.com/Lucas-Fer/docker-todo-list)
