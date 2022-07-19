@@ -22,7 +22,6 @@
 <div>
   <h2>💪 Conhecimentos</h2>
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
   <img src='	https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
   <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
@@ -32,6 +31,7 @@
 <div>
   <h2>📝 Aprendendo</h2>
    <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
+   <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
 <div>
    <h2>📫 Contatos</h2>
    <a href="https://www.linkedin.com/in/lucas-sfer/" target="_blank">
