@@ -3,7 +3,7 @@
   
 - 🏙️ Nasci em Rio Branco - AC e atualmente moro em Porto Velho - RO.
 - 🌱 Estudo na área de desenvolvimento de software Full Stack na Trybe && Sistemas de Informação (8º período) na UNIRON.
-- 💬 Meu foco é ser um profissional completo na área de tecnologia, sou formado em desenvolvimento Front-end e estou pronto para atuar na área, além de estar em busca da stack de Back-end. 
+- 💬 Sou formado em desenvolvimento Front-end pela @tryber e estudando Back-end. Meu foco é ser um profissional na área de tecnologia focando na stack de Front-end e tenho conhecimentos em React e Angular. 
 
  <h2>🚀  Últimos projetos Front-end </h2>
  
@@ -31,10 +31,7 @@
   <div>
 <div>
   <h2>📝 Aprendendo</h2>
-   <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white'>
-   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
-   <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+   <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
 <div>
    <h2>📫 Contatos</h2>
    <a href="https://www.linkedin.com/in/lucas-sfer/" target="_blank">
