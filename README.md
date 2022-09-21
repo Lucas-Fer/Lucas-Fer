@@ -4,12 +4,18 @@
 - 🏙️ Nasci em Rio Branco - AC e atualmente moro em Porto Velho - RO.
 - 🌱 Estudo na área de desenvolvimento de software Full Stack na Trybe && Sistemas de Informação (8º período) na UNIRON.
 - 💬 Sou formado em desenvolvimento Front-end pela @tryber e estudando Back-end. Meu foco é ser um profissional na área de tecnologia focando inicialmente na stack de Front-end e em busca da stack de Back-end. 
+<hr>
 
- <h2>🚀  Últimos projetos Front-end </h2>
+ <h2>🚀  Últimos projetos</h2>
+ 
+ <h3>Front-end</h3>
  
 - [StarWars Planets: Aplicação React que filtras os planetas do universo de Star Wars.](https://github.com/Lucas-Fer/starwars-planets)
 - [Wallet Project: Aplicação React que funciona como uma carteira de gastos.](https://github.com/Lucas-Fer/wallet-project)
  
+ <h3>Back-end</h3>
+ 
+- [Conceitos Nodejs: Aplicação node para praticar conceitos.](https://github.com/Lucas-Fer/conceitos-nodejs)
 <hr>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
