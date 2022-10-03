@@ -16,6 +16,8 @@
  <h3>Back-end</h3>
  
 - [Conceitos Nodejs: Aplicação node para praticar conceitos.](https://github.com/Lucas-Fer/conceitos-nodejs)
+- [Conceitos Nodejs: Uma loja de itens medievais, no formato de uma API, utilizando Typescript.](https://github.com/Lucas-Fer/mediaval-shop-crud)
+
 <hr>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
