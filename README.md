@@ -15,8 +15,8 @@
  
  <h3>Back-end</h3>
  
-- [Conceitos Nodejs: Aplicação node para praticar conceitos.](https://github.com/Lucas-Fer/conceitos-nodejs)
-- [Conceitos Nodejs: Uma loja de itens medievais, no formato de uma API, utilizando Typescript.](https://github.com/Lucas-Fer/mediaval-shop-crud)
+- [Aplicação node para aplicar conceitor de POO.](https://github.com/Lucas-Fer/work-with-poo-node)
+- [Aplicação node onde tem uma loja de itens medievais, no formato de uma API, utilizando Typescript.](https://github.com/Lucas-Fer/mediaval-shop-crud)
 
 <hr>
 <div>
