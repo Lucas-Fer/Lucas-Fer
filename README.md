@@ -18,6 +18,10 @@
 - [Aplicação node para aplicar conceitor de POO.](https://github.com/Lucas-Fer/work-with-poo-node)
 - [Aplicação node onde tem uma loja de itens medievais, no formato de uma API, utilizando Typescript.](https://github.com/Lucas-Fer/mediaval-shop-crud)
 
+<h3>Full-stack</h3>
+ 
+- [Sistema para serviços mecânicos](https://github.com/Lucas-Fer/mechanical-services-tcc-project)
+
 <hr>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
