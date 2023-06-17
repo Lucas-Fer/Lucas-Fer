@@ -2,8 +2,8 @@
   <h2>👨 Resumo</h2>
   
 - 🏙️ Nasci em Rio Branco - AC e atualmente moro em Porto Velho - RO.
-- 🌱 Estudo na área de desenvolvimento de software Full Stack na Trybe && Sistemas de Informação (8º período) na UNIRON.
-- 💬 Sou formado em desenvolvimento Front-end pela @tryber e estudando Back-end. Meu foco é ser um profissional na área de tecnologia focando inicialmente na stack de Front-end e em busca da stack de Back-end. 
+- 🌱 Desenvolvedor JR formado em Sistemas de Informação.
+- 💬 Sou formado em desenvolvimento Front-end pela @tryber e tenho conhecimentos em back-end com Node. Meu foco é ser um profissional na área de tecnologia focando inicialmente na stack de Front-end e em busca da stack de Back-end. 
 <hr>
 
  <h2>🚀  Últimos projetos</h2>
