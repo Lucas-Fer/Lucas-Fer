@@ -10,8 +10,8 @@
  
  <h3>Front-end</h3>
  
-- [StarWars Planets: Aplicação React que filtras os planetas do universo de Star Wars.](https://github.com/Lucas-Fer/starwars-planets)
-- [Wallet Project: Aplicação React que funciona como uma carteira de gastos.](https://github.com/Lucas-Fer/wallet-project)
+- [Shop Project: Aplicação React com Nextjs que utiliza a api do Stripe para renderizar produtos.](https://github.com/Lucas-Fer/shop-project-with-nextjs)
+- [Dt Money: Aplicação React de controle de gastos.](https://github.com/Lucas-Fer/dt-money)
  
  <h3>Back-end</h3>
  
@@ -20,7 +20,7 @@
 
 <h3>Full-stack</h3>
  
-- [Sistema para serviços mecânicos](https://github.com/Lucas-Fer/mechanical-services-tcc-project)
+- [Sistema para serviços mecânicos: Projeto Full Stack para entrega do TCC](https://github.com/Lucas-Fer/mechanical-services-tcc-project)
 
 <hr>
 <div>
