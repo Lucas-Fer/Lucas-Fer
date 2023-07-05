@@ -3,7 +3,7 @@
   
 - 🏙️ Nasci em Rio Branco - AC e atualmente moro em Porto Velho - RO.
 - 🌱 Desenvolvedor JR formado em Sistemas de Informação.
-- 💬 Sou formado em desenvolvimento Front-end pela @tryber e tenho conhecimentos em back-end com Node. Meu foco é ser um profissional na área de tecnologia focando inicialmente na stack de Front-end e em busca da stack de Back-end. 
+- 💬 Sou formado em desenvolvimento Front-end pela @tryber e tenho conhecimentos em back-end com Node. Meu foco é ser um profissional na área de tecnologia focando inicialmente na linguagem javascript. 
 <hr>
 
  <h2>🚀  Últimos projetos</h2>
