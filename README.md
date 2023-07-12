@@ -12,7 +12,7 @@
  
 - [Shop Project: Aplicação React com Nextjs que utiliza a api do Stripe para renderizar produtos.](https://github.com/Lucas-Fer/shop-project-with-nextjs)
 - [Dt Money: Aplicação React de controle de gastos.](https://github.com/Lucas-Fer/dt-money)
- 
+- [Angular CRUD Project: Aplicação Angular com funcionalidades de um CRUD(Criar, Ler, Editar e Deletar) básico em uma página estática.](https://github.com/Lucas-Fer/angular-crud-project)
  <h3>Back-end</h3>
  
 - [Aplicação node para aplicar conceitor de POO.](https://github.com/Lucas-Fer/work-with-poo-node)
